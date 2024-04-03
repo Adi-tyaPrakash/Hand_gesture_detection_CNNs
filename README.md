@@ -1,0 +1,1 @@
+This project focuses on hand gesture detection using Convolutional Neural Networks (CNNs). Hand gesture detection is a crucial task in human-computer interaction, enabling natural and intuitive communication with machines. CNNs, with their ability to learn hierarchical features from images, are well-suited for this task.
